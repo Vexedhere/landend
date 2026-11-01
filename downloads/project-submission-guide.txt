@@ -1,0 +1,12 @@
+MYTHICAL STUDIOS — PROJECT SUBMISSION GUIDE
+
+For a project suggestion or showcase submission, prepare:
+- Project name and one-line summary
+- What problem or experience it addresses
+- Intended audience
+- Current status (idea, prototype, in development, released)
+- Screenshots, demo links or repository links
+- Technologies or tools used, if relevant
+- What kind of feedback or collaboration you are seeking
+
+Only share material you have permission to distribute. Do not include passwords, API keys, private user data or other secrets.
